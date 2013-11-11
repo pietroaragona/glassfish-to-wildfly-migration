@@ -1,4 +1,5 @@
-glassfish-to-wildfly-migration
-==============================
+GlassFish to WildFly Migration Samples
+======================================
 
-Samples that demonstrate how to migrate from GlassFish to WildFly
+Samples that demonstrate how to migrate from GlassFish to WildFly.
+
